@@ -7,5 +7,5 @@ langueges: Protuguese, Spanish, English
 curiositys : 
 I don't am harry potter but a can talk the snakes's languege (python speaker)
 there are 10 types of people those who know binary and those who don't
-<img src="https://logospng.org/wp-content/uploads/html-5.png" alt="HTML5" width="30" height="30">
+
 
