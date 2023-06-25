@@ -2,10 +2,10 @@
 My name is **Eduardo** but you can call me "**Ed**". I am a **Full stack developer**,that means In a war I am infantry and archery in the same time. i like create new forms an love think new games tha a can make in a page.
 
 
-langueges: Protuguese, Spanish, English
+Human  langueges: Protuguese, Spanish, English
+Cyborg langueges: Python, Javascripty , C++
 
-curiositys : 
-I don't am harry potter but a can talk the snakes's languege (python speaker)
-there are 10 types of people those who know binary and those who don't
+powed by: Javascripty (Es6), React, Vite, Vercel, Next, Bootstrap,  Git, Styled-Components, HTML5, CSS3, Axios, Linux, Docker, Nodes , npm , Python, Pandas , Nunpy, OS.   
+... and Coffee
 
 
