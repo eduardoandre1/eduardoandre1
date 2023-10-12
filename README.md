@@ -1,12 +1,3 @@
-# Hello 👋 everyone 🤖
-My name is **Eduardo** but you can call me "**Ed**". I am a **Full stack developer**,that means In a war I am infantry and archery in the same time. i like create new forms an love think new games tha a can make in a page.
-
-
-Human  langueges: Protuguese, Spanish, English
-
-Cyborg langueges: Python, Javascripty , C++
-
-powed by: Javascripty (Es6), React, Vite, Vercel, Next, Bootstrap,  Git, Styled-Components, HTML5, CSS3, Axios, Linux, Docker, Nodes , npm , Python, Pandas , Nunpy, OS.   
-... and Coffee
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Mena+Barreto!;I'm+20+years+old;I'm+from+Brazil;I'm+a+fullstack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioMenaBarreto&bg_color=000000&color=2346d1&line=1d2ad7&point=266b82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
