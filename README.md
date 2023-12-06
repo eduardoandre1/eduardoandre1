@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+André!;I'm+a+full+stack+developer;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+André!;I'm+a+full+stack+developer;I'm+from+Rio+de+Janeiro-Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 #### Contacts:
 [![linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)&nbsp;
 [![whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521970124125)&nbsp;
