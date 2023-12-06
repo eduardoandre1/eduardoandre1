@@ -9,9 +9,11 @@
 </div>
 
 #### resume 
-hi dear reader ,let me 
+hi dear reader ,let me
+
 const name = ` Eduardo André `
-describe (myself) => { hi dear reader ,let me describe myself => { I'm a fullstack developer passionate about backend is with a small passion for QA test, and a case with database } 
+
+describe (myself) => { hi dear reader , I'm a fullstack developer passionate about backend is with a small passion for QA test, and a case with database } 
 
 #### Main Stack:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()&nbsp;
