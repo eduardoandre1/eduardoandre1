@@ -8,6 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoandre1&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117&" />
 </div>
 
+#### resume 
+hi dear reader ,let me describe (myself) => { hi dear reader ,let me describe myself => { I'm a fullstack developer passionate about backend is with a small passion for QA test, and a case with database } }
+
 #### Main Stack:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()&nbsp;
